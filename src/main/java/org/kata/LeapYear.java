@@ -1,4 +1,4 @@
-package org.interviews;
+package org.kata;
 
 public class LeapYear {
     private final int year;
